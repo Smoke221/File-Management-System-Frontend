@@ -12,4 +12,6 @@ When a user uploads a picture, it is stored in an S3 bucket, and the object URL 
 
 
 ## Frontend - React
+
+[Deployed here!](https://file-management-system-frontend.vercel.app/)
 ![Screenshot (218)](https://github.com/Smoke221/File-Management-System-Frontend/assets/114225283/c0167b55-0b83-4f76-9a2a-331a4d94a50c)
